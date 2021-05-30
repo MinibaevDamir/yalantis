@@ -6,18 +6,18 @@
   grid-column-start: 1;
   grid-column-end: 3;
 }
-.employees-title{
+.employees-title {
   text-align: center;
 }
-.byLetter{
+.byLetter {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
-.active{
-  color: blue
+.active {
+  color: blue;
 }
 .not-active {
-  color: black
+  color: black;
 }
 .birthdayBlock {
 }
@@ -27,7 +27,7 @@
 .verticalLine {
   margin-top: 6%;
   height: 70%;
-  position: absolute
+  position: absolute;
 }
 .birthday {
   margin-left: 4%;
